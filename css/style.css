@@ -117,3 +117,31 @@ button {
 .card{
     /* box-shadow: 10px 10px 70px grey !important; */
 }
+
+.flex{
+    display: flex;
+    gap: 180px;
+}
+.ri-double-quotes-l{
+    font-size: 300%;
+    color: #00B170;
+}
+.head-footer{
+    color: #00B170;
+    font-weight: 600;
+}
+.body-footer{
+    color: #7A7A7A;
+    line-height: 25px;
+}
+.body-footer a{
+    text-decoration: none;
+    color: #7A7A7A;
+
+}
+ul li{
+    list-style: none;
+}
+a{
+  text-decoration: none;
+}
